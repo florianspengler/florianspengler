@@ -1,6 +1,6 @@
 # Hi, I'm Flo! 👋
 
-17 y/o developer and sys-admin currently focused on building the next cloud hosting service.
+17 y/o developer and sys-admin from Stuttgart🇩🇪 currently focused on building the next cloud hosting service.☁️
 
 ## 🛠 Skills
 
