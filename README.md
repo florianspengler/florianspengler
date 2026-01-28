@@ -1,6 +1,6 @@
 # Hi, I'm Flo! 👋
 
-19 y/o developer and sys-admin from Stuttgart🇩🇪
+Stuttgart🇩🇪
 
 ## 🛠 Skills
 
