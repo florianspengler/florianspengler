@@ -1,4 +1,4 @@
-![Header](./header-banner.png)
+![Header](./banner.png)
 
 Stuttgart🇩🇪
 
