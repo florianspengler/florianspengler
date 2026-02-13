@@ -1,4 +1,7 @@
-![Header](./banner.png)
+<p align="center">
+  <img src="./banner.png" height="227" />
+  <img src="./rust.png" height="227" />
+</p>
 
 Stuttgart🇩🇪
 
