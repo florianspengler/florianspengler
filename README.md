@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./banner.png" height="227" />
-  <img src="./rust.png" height="227" />
+  <img src="./banner.png" height="200" />
+  <img src="./rust.png" height="200" />
 </p>
 
 Stuttgart🇩🇪
